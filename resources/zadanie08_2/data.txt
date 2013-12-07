@@ -1,0 +1,5 @@
+1|Hunter S. Thompson|Fear and Loathing in Las Vegas|Niebieska Studnia|29.90|file1.jpg
+2|Raymond Murphy|English Grammar in Use|Cambridge|76.8|file2.jpg
+3|Orson Scott Card|Era Endera|Prószyński Media|29.90|file3.jpg
+4|J.R.R. Tolkien|Hobbit|Amber|44.49|file4.jpg
+5|Joshua Bloch|Java. Efektywne programowanie.|Helion|45.49|file5.jpg
